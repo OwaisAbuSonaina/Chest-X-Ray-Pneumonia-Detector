@@ -55,7 +55,7 @@ chest_xray/
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/OwaisAbuSonaina/Chest-X-Ray-Pneumonia-Detector.git](https://github.com/OwaisAbuSonaina/Chest-X-Ray-Pneumonia-Detector.git)
+    git clone https://github.com/OwaisAbuSonaina/Chest-X-Ray-Pneumonia-Detector.git
     cd Chest-X-Ray-Pneumonia-Detector
     ```
 2.  Install dependencies:
