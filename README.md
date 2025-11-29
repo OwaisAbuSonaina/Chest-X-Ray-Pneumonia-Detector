@@ -36,7 +36,16 @@ You need a Python environment with the following major libraries:
 
 This project requires the **Chest X-Ray Images (Pneumonia)** dataset, which must be organized in the following structure relative to the notebook:
 
-. └── chest_xray/ ├── test/ │ ├── NORMAL/ │ └── PNEUMONIA/ ├── train/ │ ├── NORMAL/ │ └── PNEUMONIA/ └── val/ ├── NORMAL/ └── PNEUMONIA/
+└── chest_xray/ 
+    ├── test/ │ 
+        ├── NORMAL/ 
+        │ └── PNEUMONIA/ 
+    ├── train/ │ 
+        ├── NORMAL/ 
+        │ └── PNEUMONIA/ 
+    └── val/ 
+        ├── NORMAL/ 
+        └── PNEUMONIA/
 
 
 ### Run the Project
